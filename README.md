@@ -21,7 +21,6 @@ The goal of this project is to develop a "Digital Doorman" system capable of ver
 
 ##  Key Results
 * **Champion Model:** CNN Embeddings + Random Forest.
-* **Performance:** Achieved an **AUC-ROC of 0.96**, demonstrating strong separation ability between the two classes.
 * **Conclusion:** The use of deep learning embeddings significantly reduced misclassifications compared to relying solely on basic image features.
 
 ##  Team Contribution
